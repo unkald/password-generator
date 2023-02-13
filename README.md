@@ -15,3 +15,5 @@ Execute via:
 ```bash
 gen-pass.exe
 ```
+
+![Capture](.assets/Capture.PNG)
